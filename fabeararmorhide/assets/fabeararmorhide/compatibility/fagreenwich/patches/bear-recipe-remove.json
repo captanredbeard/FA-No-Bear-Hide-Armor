@@ -1,0 +1,20 @@
+[
+  {
+    "op": "add",
+    "path": "/5/enabled",
+    "value": false,
+    "file": "fagreenwich:recipes/grid/armor/fa-greenwich-body-recipe.json"
+  },
+  {
+    "op": "add",
+    "path": "/11/enabled",
+    "value": false,
+    "file": "fagreenwich:recipes/grid/armor/fa-greenwich-head-recipe.json"
+  },
+  {
+    "op": "add",
+    "path": "/5/enabled",
+    "value": false,
+    "file": "fagreenwich:recipes/grid/armor/fa-greenwich-legs-recipe.json"
+  }
+]

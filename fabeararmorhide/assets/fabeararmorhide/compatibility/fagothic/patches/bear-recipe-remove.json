@@ -1,0 +1,20 @@
+[
+  {
+    "op": "add",
+    "path": "/4/enabled",
+    "value": false,
+    "file": "fagothic:recipes/grid/armor/balance/fa-gothic-body-recipe.json"
+  },
+  {
+    "op": "add",
+    "path": "/9/enabled",
+    "value": false,
+    "file": "fagothic:recipes/grid/armor/balance/fa-gothic-head-recipe.json"
+  },
+  {
+    "op": "add",
+    "path": "/2/enabled",
+    "value": false,
+    "file": "fagothic:recipes/grid/armor/balance/fa-gothic-legs-recipe.json"
+  }
+]

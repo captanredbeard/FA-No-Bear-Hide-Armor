@@ -1,0 +1,20 @@
+[
+  {
+    "op": "add",
+    "path": "/2/enabled",
+    "value": false,
+    "file": "faviking:recipes/grid/armor/fa-viking-body-recipe.json"
+  },
+  {
+    "op": "add",
+    "path": "/4/enabled",
+    "value": false,
+    "file": "faviking:recipes/grid/armor/fa-viking-head-recipe.json"
+  },
+  {
+    "op": "add",
+    "path": "/3/enabled",
+    "value": false,
+    "file": "faviking:recipes/grid/armor/fa-viking-legs-recipe.json"
+  }
+]

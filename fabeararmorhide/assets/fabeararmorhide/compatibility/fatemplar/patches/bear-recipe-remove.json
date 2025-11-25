@@ -1,0 +1,20 @@
+[
+  {
+    "op": "add",
+    "path": "/3/enabled",
+    "value": false,
+    "file": "fatemplar:recipes/grid/armor/balance/fa-templar-body-balance-recipe.json"
+  },
+  {
+    "op": "add",
+    "path": "/3/enabled",
+    "value": false,
+    "file": "fatemplar:recipes/grid/armor/balance/fa-templar-head-pothelmheavy-recipe.json"
+  },
+  {
+    "op": "add",
+    "path": "/2/enabled",
+    "value": false,
+    "file": "fatemplar:recipes/grid/armor/balance/fa-templar-legs-balance-recipe.json"
+  }
+]

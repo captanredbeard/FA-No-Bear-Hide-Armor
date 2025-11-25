@@ -1,0 +1,14 @@
+{
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "Content",
+    "modid": "fabeararmorhide",
+    "name": "Forgotten Armory Hide Bear Armors",
+    "authors": [
+        "Captanredbeard"
+    ],
+    "description": "Removes Bear Armor recipes and handbook views from all forgotten armory mods.",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.21.0"
+    }
+}

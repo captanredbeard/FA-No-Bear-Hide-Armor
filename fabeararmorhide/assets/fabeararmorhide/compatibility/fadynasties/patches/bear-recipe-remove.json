@@ -1,0 +1,39 @@
+[
+  {
+    "op": "add",
+    "path": "/4/enabled",
+    "value": false,
+    "file": "fadynasties:recipes/grid/armor/ming/fa-dynasties-body-ming-recipe.json"
+  },
+  {
+    "op": "add",
+    "path": "/4/enabled",
+    "value": false,
+    "file": "fadynasties:recipes/grid/armor/ming/fa-dynasties-head-ming-recipe.json"
+  },
+  {
+    "op": "add",
+    "path": "/4/enabled",
+    "value": false,
+    "file": "fadynasties:recipes/grid/armor/ming/fa-dynasties-legs-ming-recipe.json"
+  },
+
+  {
+    "op": "add",
+    "path": "/2/enabled",
+    "value": false,
+    "file": "fadynasties:recipes/grid/armor/song/fa-dynasties-body-song-recipe.json"
+  },
+  {
+    "op": "add",
+    "path": "/2/enabled",
+    "value": false,
+    "file": "fadynasties:recipes/grid/armor/song/fa-dynasties-head-song-recipe.json"
+  },
+  {
+    "op": "add",
+    "path": "/2/enabled",
+    "value": false,
+    "file": "fadynasties:recipes/grid/armor/song/fa-dynasties-legs-song-recipe.json"
+  }
+]

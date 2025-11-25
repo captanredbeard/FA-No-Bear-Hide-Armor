@@ -1,0 +1,10 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes/handbook/excludeByType",
+    "value": {
+      "*bear*": "true"
+    },
+    "file": "fahussar:itemtypes/wearable/hussar/*"
+  }
+]
