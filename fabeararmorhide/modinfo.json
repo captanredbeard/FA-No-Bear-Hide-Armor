@@ -1,8 +1,8 @@
 {
     "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
     "type": "Content",
-    "modid": "fabeararmorhide",
-    "name": "Forgotten Armory Hide Bear Armors",
+    "modid": "fabeararmorhiderecipesonly",
+    "name": "Forgotten Armory Hide Bear Armors : Recipes Only",
     "authors": [
         "Captanredbeard"
     ],
