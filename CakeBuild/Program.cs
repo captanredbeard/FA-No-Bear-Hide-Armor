@@ -96,7 +96,7 @@ namespace CakeBuild
         public override void Run(BuildContext context)
         {
             context.EnsureDirectoryExists("../Releases");
-            context.CleanDirectory("../Releases");
+            //context.CleanDirectory("../Releases");
             context.EnsureDirectoryExists($"../Releases/{context.Name}");
             context.CopyFiles($"../{BuildContext.ProjectName}/bin/{context.BuildConfiguration}/Mods/mod/publish/*", $"../Releases/{context.Name}");
             if (context.DirectoryExists($"../{BuildContext.ProjectName}/assets"))
@@ -108,7 +108,7 @@ namespace CakeBuild
             {
                 context.CopyFile($"../{BuildContext.ProjectName}/modicon.png", $"../Releases/{context.Name}/modicon.png");
             }
-            context.Zip($"../Releases/{context.Name}", $"../Releases/{context.Name}_{context.Version}.zip");
+            context.Zip($"../Releases/{context.Name}", $"../Releases/Forgotten Armory_Bear_Hide_Armor_Removal_{context.Version}.zip");
         }
     }
 
